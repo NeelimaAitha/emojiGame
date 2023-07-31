@@ -1,0 +1,39 @@
+/* Write your code here. */
+.game-status {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.current-score-label {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0px;
+  text-align: center;
+}
+.current-score-value {
+  color: #6a59ff;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: bold;
+  margin: 0px;
+  text-align: center;
+}
+
+.play-again-button {
+  color: #3d3d3d;
+  background-color: #ffce27;
+  font-family: 'Roboto';
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.win-or-lose {
+  width: 150px;
+  height: 200px;
+}
